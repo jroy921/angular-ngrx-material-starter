@@ -1,9 +1,9 @@
-$anms-nature-primary: mat-palette($mat-brown, 700, 300, 900);
-$anms-nature-accent: mat-palette($mat-deep-purple, 300);
-$anms-nature-warn: mat-palette($mat-red, 600);
+$orca-nature-primary: mat-palette($mat-brown, 700, 300, 900);
+$orca-nature-accent: mat-palette($mat-deep-purple, 300);
+$orca-nature-warn: mat-palette($mat-red, 600);
 
-$anms-nature-theme: mat-light-theme(
-  $anms-nature-primary,
-  $anms-nature-accent,
-  $anms-nature-warn
+$orca-nature-theme: mat-light-theme(
+  $orca-nature-primary,
+  $orca-nature-accent,
+  $orca-nature-warn
 );

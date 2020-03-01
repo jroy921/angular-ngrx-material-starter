@@ -7,7 +7,7 @@ const routes: Routes = [
   {
     path: '',
     component: FeatureListComponent,
-    data: { title: 'anms.menu.features' }
+    data: { title: 'orca.menu.features' }
   }
 ];
 
